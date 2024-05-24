@@ -1,0 +1,27 @@
+new.entry.type = "article"
+new.entry.type = "{}article"
+new.entry.type = "book"
+new.entry.type = "booklet"
+new.entry.type = "conference"
+new.entry.type = "inbook"
+new.entry.type = "incollection"
+new.entry.type = "inproceedings"
+new.entry.type = "manual"
+new.entry.type = "mastersthesis"
+new.entry.type = "misc"
+new.entry.type = "phdthesis"
+new.entry.type = "proceedings"
+new.entry.type = "techreport"
+new.entry.type = "unpublished"
+new.entry.type = "{}unpublished"
+
+print.align = 0
+print.align.key = 0
+print.use.tab = off
+print.line.length = 99999
+print.terminal.comma = on
+print.wide.equal = on
+suppress.initial.newline = on
+
+sort.macros = off
+sort.order = { * = title # shorttitle # author # type # booktitle # series # pages # journal # volume # number # publisher # institution # school # address # doi # isbn # url # urldate # year # month }
