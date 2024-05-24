@@ -1,0 +1,9 @@
+{
+    "[tex][latex]": {
+        "editor.wordWrapColumn": 72,
+        "rewrap.autoWrap.enabled": true,
+        "editor.rulers": [72],
+    },
+    // "cSpell.enabled": true,
+    "cSpell.language": "en-GB",
+}
