@@ -11,6 +11,7 @@ new.entry.type = "mastersthesis"
 new.entry.type = "misc"
 new.entry.type = "phdthesis"
 new.entry.type = "proceedings"
+new.entry.type = "software"
 new.entry.type = "techreport"
 new.entry.type = "unpublished"
 new.entry.type = "{}unpublished"
@@ -24,4 +25,4 @@ print.wide.equal = on
 suppress.initial.newline = on
 
 sort.macros = off
-sort.order = { * = title # shorttitle # author # type # booktitle # series # pages # journal # volume # number # publisher # institution # school # address # doi # isbn # url # urldate # year # month }
+sort.order = { * = title # shorttitle # author # type # booktitle # series # pages # journal # volume # number # publisher # editor # organization # institution # school # address # license # version # doi # isbn # url # urldate # year # month }
